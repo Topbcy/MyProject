@@ -1,2 +1,4 @@
-https://world.taobao.com
-https://s.taobao.com
+! 白清單
+@@||world.taobao.com^
+@@||taobao.com^
+@@||s.taobao.com^
